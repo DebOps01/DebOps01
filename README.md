@@ -27,7 +27,7 @@ Credits and references used in this README:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,pycharm,yarn,terraform,python,cpp,mysql,bash,kubernetes,gcp,&theme=light)](https://skillicons.dev)
 
-**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+Well versed in MySQL, CI/CD, Networking & Security (VPC, IAM. NACL), and ML workflows.
 
 
 <!--
